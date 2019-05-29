@@ -1,4 +1,4 @@
-# DeepOnto.KOM
+# Semantic.KOM
 Python 3 package for relation extraction and classification.
 
 `pip install .` to install the package
